@@ -1,0 +1,1 @@
+git remote set-url origin https://Shalabh-agarwal8630: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@github.com/Shalabh-agarwal8630/K8s-manifest-files.git
